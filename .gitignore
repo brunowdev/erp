@@ -1,0 +1,18 @@
+.classpath
+.project
+.settings/
+target/
+build/
+node_modules/
+nbproject/
+*.form
+.idea/
+*.class
+*.jar
+*.iml
+*.mf
+*.ser
+*.bin
+*.dat
+*.datafile
+ nbactions.xml 
